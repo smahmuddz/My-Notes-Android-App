@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/85384973/164878215-58e716d3-079b-4035-a9cc-cfd5bb7ae569.png" align="center"
-     alt="Size Limit logo by Anton Lovchikov" width="200" height="200">
+     alt="Size Limit logo by Anton Lovchikov" width="100" height="100">
 # My Notes Android App
 Create Notes, Keep Track Of Your Tasks
      
