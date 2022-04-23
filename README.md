@@ -26,6 +26,10 @@ Project is created with:
 ## Setup
 Download the app-release File from : https://github.com/smahmuddz/My-Notes-Android-App/tree/main/app/release
 
+
+## Contact Info
 ```
-Contact: smahmuddz@gmail.com
+    Email: smahmuddz@gmail.com
+ LinkedIn: https://www.linkedin.com/in/smahmuddz/
+  WebSite: https://smahmuddz.github.io/portfolio/
 ```
