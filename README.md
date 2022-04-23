@@ -1,4 +1,31 @@
+<img src="https://user-images.githubusercontent.com/85384973/164878215-58e716d3-079b-4035-a9cc-cfd5bb7ae569.png" align="center"
+     alt="Size Limit logo by Anton Lovchikov" width="200" height="200">
 # My Notes Android App
-Create Notes, 
+Create Notes, Keep Track Of Your Tasks
+     
+     
 
-![Smartphone App Presentation](https://user-images.githubusercontent.com/85384973/164877756-6de44d7b-ae04-4ca2-a59e-d8d3a7bba5b2.png)
+![Smartphone App Presentation](https://user-images.githubusercontent.com/85384973/164878067-d7c7138f-2230-4b16-8ced-d6edc10b0651.png)
+
+
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project is a simple Note Making Android App.
+	
+## Technologies
+Project is created with:
+* Android Studio 
+* Language : Java, XML.
+* To Store Data I have used TinyDb (This class simplifies calls to SharedPreferences in a line of code)
+	
+## Setup
+Download the app-release File from : https://github.com/smahmuddz/My-Notes-Android-App/tree/main/app/release
+
+```
+Contact: smahmuddz@gmail.com
+```
