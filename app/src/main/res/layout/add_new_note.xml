@@ -30,7 +30,7 @@
         android:paddingRight="20dp"
         android:layout_marginBottom="20dp"
         android:background="@drawable/rounded"
-        android:hint=" Course Title"
+        android:hint=" Title"
         android:padding="15dp" />
 
     <EditText
@@ -45,7 +45,7 @@
         android:paddingRight="20dp"
         android:layout_marginBottom="20dp"
         android:background="@drawable/rounded"
-        android:hint=" Note Title"
+        android:hint=" Topic"
         android:padding="15dp" />
 
     <EditText
